@@ -13,7 +13,7 @@ python = "^3.10"
 prisma = "^0.13.1"
 python-dotenv = "^1.0.1"
 uvicorn = "^0.30.3"
-fastapi = "^0.109.0"
+fastapi = "^0.116.0"
 sentry-sdk = { extras = ["fastapi"], version = "^2.11.0" }
 fuzzywuzzy = "^0.18.0"
 python-levenshtein = "^0.25.1"
